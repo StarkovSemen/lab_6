@@ -61,4 +61,4 @@ true, если количество минут в левом операнде б
 
 ### Тестирование
 
-
+<img width="1510" height="678" alt="Image" src="https://github.com/user-attachments/assets/a5399f0b-a129-4d46-8209-52be7b171757" />
